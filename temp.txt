@@ -2,3 +2,4 @@ status, message
 0, Awesome
 1, Failed
 0, Awesome
+2, NotSure
